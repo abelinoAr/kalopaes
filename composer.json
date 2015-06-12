@@ -1,0 +1,9 @@
+{
+    "name": "abel/composer",
+    "require": {
+			"phpmailer/phpmailer": "5.*",
+			"raveren/kint": "0.9",
+			"tinymce/tinymce": "dev-master"
+
+    }
+}
